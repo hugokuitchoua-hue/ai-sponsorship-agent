@@ -1,0 +1,13 @@
+# Fichiers de configuration et secrets (NE JAMAIS PUBLIER)
+.env
+credentials.json
+token.json
+
+# Environnement virtuel
+.venv/
+env/
+
+# Fichiers générés localement
+draft_*.txt
+__pycache__/
+*.pyc
